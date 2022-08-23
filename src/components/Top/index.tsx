@@ -1,10 +1,8 @@
 import { Container, Logos, Tel, Text, Wrapper } from "./styles";
 
 import { AiFillPhone, AiFillLinkedin, AiFillGithub } from "react-icons/ai";
-import { useTheme } from "styled-components";
 
 export function Top() {
-  const theme = useTheme();
   return (
     <Wrapper>
       <Container>
