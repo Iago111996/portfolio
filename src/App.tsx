@@ -1,8 +1,8 @@
-import { Home } from './screens/Home';
-import theme from './styles/theme';
+import { Home } from "./screens/Home";
+import { theme } from "./styles/theme";
 
-import { GlobaStyle } from './styles/global';
-import { ThemeProvider } from 'styled-components';
+import { GlobaStyle } from "./styles/global";
+import { ThemeProvider } from "styled-components";
 
 function App() {
   return (
