@@ -46,7 +46,7 @@ export function Contact() {
 
         <Wrapper>
           <Left>
-            <h1>Carrer Palleter, 13, 46910 Benessetur, Valencia, España</h1>
+            <h1>Rua Teixeira Lopes, 1039, 1039 Custóias, Porto, Putugal</h1>
 
             <h2>
               <AiFillPhone size={16} style={{ marginRight: 8 }} />
@@ -54,7 +54,7 @@ export function Contact() {
             </h2>
             <h2>
               <IoMdMail size={16} style={{ marginRight: 8 }} />{" "}
-              email@exemple.com
+              iago111996@gmail.com
             </h2>
             <a
               href="https://www.linkedin.com/in/iago-pinto-1b07aa208/"
